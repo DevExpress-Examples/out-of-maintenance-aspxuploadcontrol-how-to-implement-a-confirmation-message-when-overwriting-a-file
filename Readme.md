@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx](./VB/Default.aspx))
+* [UploadControl.ascx](./CS/UploadControl.ascx) (VB: [UploadControl.ascx](./VB/UploadControl.ascx))
+* [UploadControl.ascx.cs](./CS/UploadControl.ascx.cs) (VB: [UploadControl.ascx](./VB/UploadControl.ascx))
+<!-- default file list end -->
 # ASPxUploadControl - How to implement a confirmation message when overwriting a file
 
 
