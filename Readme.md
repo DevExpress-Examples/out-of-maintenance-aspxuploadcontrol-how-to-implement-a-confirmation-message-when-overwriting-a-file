@@ -2,9 +2,9 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
-* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx](./VB/Default.aspx))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 * [UploadControl.ascx](./CS/UploadControl.ascx) (VB: [UploadControl.ascx](./VB/UploadControl.ascx))
-* [UploadControl.ascx.cs](./CS/UploadControl.ascx.cs) (VB: [UploadControl.ascx](./VB/UploadControl.ascx))
+* [UploadControl.ascx.cs](./CS/UploadControl.ascx.cs) (VB: [UploadControl.ascx.vb](./VB/UploadControl.ascx.vb))
 <!-- default file list end -->
 # ASPxUploadControl - How to implement a confirmation message when overwriting a file
 
