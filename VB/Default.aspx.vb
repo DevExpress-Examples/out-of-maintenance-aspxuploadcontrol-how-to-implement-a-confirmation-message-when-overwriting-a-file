@@ -1,8 +1,13 @@
-﻿Public Class _Default
-    Inherits System.Web.UI.Page
+Imports System
+Imports System.Web.UI
+Imports System.Web.UI.WebControls
 
-    Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
+Namespace Q484693
 
-    End Sub
+    Public Partial Class [Default]
+        Inherits Page
 
-End Class
+        Protected Sub Page_Load(ByVal sender As Object, ByVal e As EventArgs)
+        End Sub
+    End Class
+End Namespace

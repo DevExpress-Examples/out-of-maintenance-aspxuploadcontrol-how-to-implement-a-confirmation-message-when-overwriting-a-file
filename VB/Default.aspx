@@ -1,4 +1,4 @@
-﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="Default.aspx.vb" Inherits="._Default" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="Q484693.Default" %>
 
 <%@ Register Src="~/UploadControl.ascx" TagPrefix="uc1" TagName="UploadControl" %>
 

@@ -6,76 +6,71 @@
 '     the code is regenerated. 
 ' </auto-generated>
 '------------------------------------------------------------------------------
-
-
-Imports Microsoft.VisualBasic
-Imports System
 Namespace WebApplication1
 
+    Public Partial Class UploadControl
 
-	Partial Public Class UploadControl
+        ''' <summary>
+        ''' uploadCtrl control.
+        ''' </summary>
+        ''' <remarks>
+        ''' Auto-generated field.
+        ''' To modify move field declaration from designer file to code-behind file.
+        ''' </remarks>
+        Protected uploadCtrl As Global.DevExpress.Web.ASPxUploadControl.ASPxUploadControl
 
-		''' <summary>
-		''' uploadCtrl control.
-		''' </summary>
-		''' <remarks>
-		''' Auto-generated field.
-		''' To modify move field declaration from designer file to code-behind file.
-		''' </remarks>
-		Protected uploadCtrl As Global.DevExpress.Web.ASPxUploadControl.ASPxUploadControl
+        ''' <summary>
+        ''' btnUpload control.
+        ''' </summary>
+        ''' <remarks>
+        ''' Auto-generated field.
+        ''' To modify move field declaration from designer file to code-behind file.
+        ''' </remarks>
+        Protected btnUpload As Global.DevExpress.Web.ASPxEditors.ASPxButton
 
-		''' <summary>
-		''' btnUpload control.
-		''' </summary>
-		''' <remarks>
-		''' Auto-generated field.
-		''' To modify move field declaration from designer file to code-behind file.
-		''' </remarks>
-		Protected btnUpload As Global.DevExpress.Web.ASPxEditors.ASPxButton
+        ''' <summary>
+        ''' popupConfirm control.
+        ''' </summary>
+        ''' <remarks>
+        ''' Auto-generated field.
+        ''' To modify move field declaration from designer file to code-behind file.
+        ''' </remarks>
+        Protected popupConfirm As Global.DevExpress.Web.ASPxPopupControl.ASPxPopupControl
 
-		''' <summary>
-		''' popupConfirm control.
-		''' </summary>
-		''' <remarks>
-		''' Auto-generated field.
-		''' To modify move field declaration from designer file to code-behind file.
-		''' </remarks>
-		Protected popupConfirm As Global.DevExpress.Web.ASPxPopupControl.ASPxPopupControl
+        ''' <summary>
+        ''' lblConfirm control.
+        ''' </summary>
+        ''' <remarks>
+        ''' Auto-generated field.
+        ''' To modify move field declaration from designer file to code-behind file.
+        ''' </remarks>
+        Protected lblConfirm As Global.DevExpress.Web.ASPxEditors.ASPxLabel
 
-		''' <summary>
-		''' lblConfirm control.
-		''' </summary>
-		''' <remarks>
-		''' Auto-generated field.
-		''' To modify move field declaration from designer file to code-behind file.
-		''' </remarks>
-		Protected lblConfirm As Global.DevExpress.Web.ASPxEditors.ASPxLabel
+        ''' <summary>
+        ''' btnOk control.
+        ''' </summary>
+        ''' <remarks>
+        ''' Auto-generated field.
+        ''' To modify move field declaration from designer file to code-behind file.
+        ''' </remarks>
+        Protected btnOk As Global.DevExpress.Web.ASPxEditors.ASPxButton
 
-		''' <summary>
-		''' btnOk control.
-		''' </summary>
-		''' <remarks>
-		''' Auto-generated field.
-		''' To modify move field declaration from designer file to code-behind file.
-		''' </remarks>
-		Protected btnOk As Global.DevExpress.Web.ASPxEditors.ASPxButton
+        ''' <summary>
+        ''' btnCancel control.
+        ''' </summary>
+        ''' <remarks>
+        ''' Auto-generated field.
+        ''' To modify move field declaration from designer file to code-behind file.
+        ''' </remarks>
+        Protected btnCancel As Global.DevExpress.Web.ASPxEditors.ASPxButton
 
-		''' <summary>
-		''' btnCancel control.
-		''' </summary>
-		''' <remarks>
-		''' Auto-generated field.
-		''' To modify move field declaration from designer file to code-behind file.
-		''' </remarks>
-		Protected btnCancel As Global.DevExpress.Web.ASPxEditors.ASPxButton
-
-		''' <summary>
-		''' callback control.
-		''' </summary>
-		''' <remarks>
-		''' Auto-generated field.
-		''' To modify move field declaration from designer file to code-behind file.
-		''' </remarks>
-		Protected callback As Global.DevExpress.Web.ASPxCallback.ASPxCallback
-	End Class
+        ''' <summary>
+        ''' callback control.
+        ''' </summary>
+        ''' <remarks>
+        ''' Auto-generated field.
+        ''' To modify move field declaration from designer file to code-behind file.
+        ''' </remarks>
+        Protected callback As Global.DevExpress.Web.ASPxCallback.ASPxCallback
+    End Class
 End Namespace
