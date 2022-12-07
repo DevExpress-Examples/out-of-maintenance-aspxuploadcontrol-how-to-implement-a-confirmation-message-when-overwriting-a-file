@@ -19,7 +19,7 @@ namespace WebApplication1 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxUploadControl.ASPxUploadControl uploadCtrl;
+        protected global::DevExpress.Web.ASPxUploadControl uploadCtrl;
         
         /// <summary>
         /// btnUpload control.
@@ -28,7 +28,7 @@ namespace WebApplication1 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton btnUpload;
+        protected global::DevExpress.Web.ASPxButton btnUpload;
         
         /// <summary>
         /// popupConfirm control.
@@ -37,7 +37,7 @@ namespace WebApplication1 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxPopupControl.ASPxPopupControl popupConfirm;
+        protected global::DevExpress.Web.ASPxPopupControl popupConfirm;
         
         /// <summary>
         /// lblConfirm control.
@@ -46,7 +46,7 @@ namespace WebApplication1 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxLabel lblConfirm;
+        protected global::DevExpress.Web.ASPxLabel lblConfirm;
         
         /// <summary>
         /// btnOk control.
@@ -55,7 +55,7 @@ namespace WebApplication1 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton btnOk;
+        protected global::DevExpress.Web.ASPxButton btnOk;
         
         /// <summary>
         /// btnCancel control.
@@ -64,7 +64,7 @@ namespace WebApplication1 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton btnCancel;
+        protected global::DevExpress.Web.ASPxButton btnCancel;
         
         /// <summary>
         /// callback control.
@@ -73,6 +73,6 @@ namespace WebApplication1 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxCallback.ASPxCallback callback;
+        protected global::DevExpress.Web.ASPxCallback callback;
     }
 }

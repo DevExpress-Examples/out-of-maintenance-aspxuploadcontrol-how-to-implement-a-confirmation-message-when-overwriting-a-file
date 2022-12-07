@@ -17,7 +17,7 @@ Namespace WebApplication1
         ''' Auto-generated field.
         ''' To modify move field declaration from designer file to code-behind file.
         ''' </remarks>
-        Protected uploadCtrl As Global.DevExpress.Web.ASPxUploadControl.ASPxUploadControl
+        Protected uploadCtrl As Global.DevExpress.Web.ASPxUploadControl
 
         ''' <summary>
         ''' btnUpload control.
@@ -26,7 +26,7 @@ Namespace WebApplication1
         ''' Auto-generated field.
         ''' To modify move field declaration from designer file to code-behind file.
         ''' </remarks>
-        Protected btnUpload As Global.DevExpress.Web.ASPxEditors.ASPxButton
+        Protected btnUpload As Global.DevExpress.Web.ASPxButton
 
         ''' <summary>
         ''' popupConfirm control.
@@ -35,7 +35,7 @@ Namespace WebApplication1
         ''' Auto-generated field.
         ''' To modify move field declaration from designer file to code-behind file.
         ''' </remarks>
-        Protected popupConfirm As Global.DevExpress.Web.ASPxPopupControl.ASPxPopupControl
+        Protected popupConfirm As Global.DevExpress.Web.ASPxPopupControl
 
         ''' <summary>
         ''' lblConfirm control.
@@ -44,7 +44,7 @@ Namespace WebApplication1
         ''' Auto-generated field.
         ''' To modify move field declaration from designer file to code-behind file.
         ''' </remarks>
-        Protected lblConfirm As Global.DevExpress.Web.ASPxEditors.ASPxLabel
+        Protected lblConfirm As Global.DevExpress.Web.ASPxLabel
 
         ''' <summary>
         ''' btnOk control.
@@ -53,7 +53,7 @@ Namespace WebApplication1
         ''' Auto-generated field.
         ''' To modify move field declaration from designer file to code-behind file.
         ''' </remarks>
-        Protected btnOk As Global.DevExpress.Web.ASPxEditors.ASPxButton
+        Protected btnOk As Global.DevExpress.Web.ASPxButton
 
         ''' <summary>
         ''' btnCancel control.
@@ -62,7 +62,7 @@ Namespace WebApplication1
         ''' Auto-generated field.
         ''' To modify move field declaration from designer file to code-behind file.
         ''' </remarks>
-        Protected btnCancel As Global.DevExpress.Web.ASPxEditors.ASPxButton
+        Protected btnCancel As Global.DevExpress.Web.ASPxButton
 
         ''' <summary>
         ''' callback control.
@@ -71,6 +71,6 @@ Namespace WebApplication1
         ''' Auto-generated field.
         ''' To modify move field declaration from designer file to code-behind file.
         ''' </remarks>
-        Protected callback As Global.DevExpress.Web.ASPxCallback.ASPxCallback
+        Protected callback As Global.DevExpress.Web.ASPxCallback
     End Class
 End Namespace
